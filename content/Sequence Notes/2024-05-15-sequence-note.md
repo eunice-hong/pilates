@@ -18,7 +18,7 @@ tags:
         2. 변형 동작 1: 한 발씩 발 볼 - 힐 하이 & 로우 10 회
         3. 변형 동작 2: 발 볼 V - 힐 하이 & 로우 10 회
 
-2. [[pilates-blog/content/exercise/브릿지|Bridge]]
+2. [[../exercise/브릿지|Bridge]]
     1. 자세: 누워 있는 자세
     2. 목적: 골반 안정화, 척추 분절 연습
     3. 기구: reformer
@@ -70,8 +70,8 @@ tags:
     3. 기구: 캐딜락
     4. 세부 동작
         1. 기본
-           동작: [[pilates-blog/content/exercise/스트랩에 발 넣기 - 뻗었다 굽히기|Feet in the strap: reach and bend]]
-        2. 변형 동작 1:[[pilates-blog/content/exercise/스트랩에 발 넣기 - 위 아래|Feet in the strap: up down]]
+           동작: [[../exercise/스트랩에 발 넣기 - 뻗었다 굽히기|Feet in the strap: reach and bend]]
+        2. 변형 동작 1:[[../exercise/스트랩에 발 넣기 - 위 아래|Feet in the strap: up down]]
     5. 주의 사항
         1. 허리가 과도하게 아치형이 되지 않도록 코어에 힘을 주어 유지한다.
         2. 목과 어깨에 긴장이 가지 않도록 주의한다.

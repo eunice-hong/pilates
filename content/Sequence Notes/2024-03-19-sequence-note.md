@@ -33,7 +33,7 @@ tags:
     3. 횟수: 각 부위, 동작 별 3회씩
     4. 자세: Standing
     5. 세부 동작
-        1. [[pilates-blog/content/exercise/팔 돌리기|암 서클]]
+        1. [[../exercise/팔 돌리기|암 서클]]
         2. [[바렐 필라테스 1#^c597af|바렐 하체 스트레칭 시리즈]]
 
 ## Main
@@ -43,7 +43,7 @@ tags:
 - (단기 목표 내) 목적 부위 강화
 - 타겟 목적 부위 + 전신 or 협응성
 
-1. [[pilates-blog/content/exercise/어깨 외회전|Shoulder external rotation]], [[pilates-blog/content/exercise/어깨 내회전|Shoulder internal rotation]]
+1. [[../exercise/어깨 외회전|Shoulder external rotation]], [[../exercise/어깨 내회전|Shoulder internal rotation]]
     1. 목적:
     2. 예상 소요시간: 8분 이상
     3. 횟수:
@@ -51,7 +51,7 @@ tags:
         2. internal - 한 쪽 당 5회씩
     4. 자세: Sitting
 
-2. [[pilates-blog/content/exercise/흉곽 회전|Thoracic rotation]]
+2. [[../exercise/흉곽 회전|Thoracic rotation]]
     1. 목적:
         1. 몸통, 견갑골의 안정성 향상
         2. 코어 강화
@@ -60,7 +60,7 @@ tags:
     3. 횟수: 한 쪽 당 8회씩
     4. 자세: Sitting
 
-3. [[pilates-blog/content/exercise/로잉 시리즈 - 프론트|Rowing series: front]]
+3. [[../exercise/로잉 시리즈 - 프론트|Rowing series: front]]
     1. 목적:
         1. 견갑골, 회전근개 안정화 및 강화
         2. 어깨, 몸통 안정화
@@ -77,7 +77,7 @@ tags:
 - 시간: 5-10분
 - 주동근 스트레칭(가동성)
 
-1. [[pilates-blog/content/exercise/인어|Mermaid]]
+1. [[../exercise/인어|Mermaid]]
     1. 목적:
         1. 복사근, 광배근, 늑간근, 요방형근 스트레칭
     2. 예상 소요시간: 5분

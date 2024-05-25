@@ -15,7 +15,7 @@ tags:
 # Warm up
 - 시간: 7-8분
 
-1. [[pilates-blog/content/exercise/롤 다운 - 곧은 등|Roll down - flat back]]
+1. [[../exercise/롤 다운 - 곧은 등|Roll down - flat back]]
     1. 자세: 앉은 자세
     2. 목적: 복부, 고관절 굴곡근 강화
     3. 예상 소요시간: 8분
@@ -28,7 +28,7 @@ tags:
 # Basic
 - 시간: 5분
 
-1. [[pilates-blog/content/exercise/나무 오르기|Climb a tree]]
+1. [[../exercise/나무 오르기|Climb a tree]]
     1. 자세: 앉은 자세
     2. 목적: 등 신전근, 복부 강화, 햄스트링 스트레칭
     3. 예상 소요시간: 7분
@@ -38,14 +38,14 @@ tags:
 # Main
 - 시간: 30-35분
 
-1. [[pilates-blog/content/exercise/승마|Horse riding]]
+1. [[../exercise/승마|Horse riding]]
     1. 자세: 앉은 자세
     2. 목적: 내전근, 둔근 강화
     3. 예상 소요시간: 7분
     4. 세부 동작
         1. 기본 동작: 허벅지, 복부 힘으로 몸을 바로 세운다.
         2. 변형 동작 1: 양손 만세로 벌리고, 불가사리 모양 만들기
-2. [[pilates-blog/content/exercise/페달 밀기|Pedal press]]
+2. [[../exercise/페달 밀기|Pedal press]]
     1. 자세: 엎드려 누운 자세
     2. 목적: 척추 신전근 강화
     3. 예상 소요시간: 5분
@@ -55,7 +55,7 @@ tags:
         3. 변형 동작 2:
     5. 주의사항
         1. 동작을 마치고 엎드려서 휴식한다.
-3. [[pilates-blog/content/exercise/스완|Swan]]
+3. [[../exercise/스완|Swan]]
     1. 자세: 엎드려 누운 자세
     2. 목적: 둔근, 햄스트링, 등 신전근 강화
     3. 예상 소요시간: 7분
@@ -70,7 +70,7 @@ tags:
 
 - 시간: 5분
 
-1. [[pilates-blog/content/exercise/인어|Mermaid]]
+1. [[../exercise/인어|Mermaid]]
     1. 자세: 앉은 자세
     2. 목적: 둔근 이완
     3. 예상 소요시간: 5분

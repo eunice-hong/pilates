@@ -18,7 +18,7 @@ tags:
         2. 변형 동작 1: 한 발씩 발 볼 - 힐 하이 & 로우 10 회
         3. 변형 동작 2: 발 볼 V - 힐 하이 & 로우 10 회
         4. 변형 동작 2: 발꿈치 V - 힐 하이 & 로우 10 회
-2. [[pilates-blog/content/exercise/브릿지|Bridge]]
+2. [[../exercise/브릿지|Bridge]]
     1. 자세: 누워 있는 자세
     2. 목적: 골반 안정화, 척추 분절 연습
     3. 기구: reformer
@@ -62,7 +62,7 @@ tags:
     1. 자세: 네발 기기 자세
     2. 목적: 상완삼두근, 광배근, 코어 근육 단련
     3. 기구: [[리포머|reformer]]
-4. [[pilates-blog/content/exercise/인어|Mermaid]]
+4. [[../exercise/인어|Mermaid]]
     1. 자세: 앉은 자세
     2. 목적: 몸통 측면 근육 스트레칭
     3. 기구: [[리포머|reformer]]

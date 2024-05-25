@@ -39,7 +39,7 @@ tags:
 
 
 1. [[푸쉬 쓰루 브릿지|Push through bridge]]
-    1. 자세: [[앙와위|Supine position]]
+    1. 자세: [[누워 있는 자세|Supine position]]
     2. 목적: 햄스트링 및 둔근 강화, 척추 분절 연습
     3. 예상 소요시간: 7분
     4. 기구: 캐딜락

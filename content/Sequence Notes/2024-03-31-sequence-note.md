@@ -15,7 +15,7 @@ tags:
 # Warm up
 - 시간: 7-8분
 
-1. [[롤 다운 - 곧은 등|Roll down - flat back]]
+1. [[pilates-blog/content/exercise/롤 다운 - 곧은 등|Roll down - flat back]]
     1. 자세: 앉은 자세
     2. 목적: 복부, 고관절 굴곡근 강화
     3. 예상 소요시간: 8분
@@ -28,7 +28,7 @@ tags:
 # Basic
 - 시간: 5분
 
-1. [[나무 오르기|Climb a tree]]
+1. [[pilates-blog/content/exercise/나무 오르기|Climb a tree]]
     1. 자세: 앉은 자세
     2. 목적: 등 신전근, 복부 강화, 햄스트링 스트레칭
     3. 예상 소요시간: 7분
@@ -38,7 +38,7 @@ tags:
 # Main
 - 시간: 30-35분
 
-1. [[승마|Horse riding]]
+1. [[pilates-blog/content/exercise/승마|Horse riding]]
     1. 자세: 앉은 자세
     2. 목적: 내전근, 둔근 강화
     3. 예상 소요시간: 7분

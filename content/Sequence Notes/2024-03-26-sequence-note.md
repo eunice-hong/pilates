@@ -38,7 +38,7 @@ tags:
 - 목표: 주동근 가동범위 확보
 
 
-1. [[푸쉬 쓰루 브릿지|Push through bridge]]
+1. [[pilates-blog/content/exercise/푸쉬 쓰루 브릿지|Push through bridge]]
     1. 자세: 누워 있는 자세
     2. 목적: 햄스트링 및 둔근 강화, 척추 분절 연습
     3. 예상 소요시간: 7분

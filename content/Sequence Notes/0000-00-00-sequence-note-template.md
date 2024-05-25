@@ -4,6 +4,7 @@ date: 0000-00-00
 draft: true
 tags:
   - 그룹
+  - 개인
 ---
 
 # 체크리스트
@@ -35,8 +36,7 @@ tags:
     3. 길항근 스트레칭(가동성), 안정화
 
 1. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:
@@ -49,8 +49,7 @@ tags:
     6. 주의 사항
         1.
 2. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:
@@ -72,8 +71,7 @@ tags:
     3. 길항근 스트레칭(가동성), 안정화
 
 1. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:
@@ -91,8 +89,7 @@ tags:
 - 시간: 30-35분
 
 1. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:
@@ -105,8 +102,7 @@ tags:
     6. 주의 사항
         1.
 2. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
     4. 예상 소요 시간: \<N\>분
@@ -117,8 +113,7 @@ tags:
     6. 주의 사항
         1.
 3. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:
@@ -131,8 +126,7 @@ tags:
     6. 주의 사항
         1.
 4. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
     4. 예상 소요 시간: \<N\>분
@@ -150,8 +144,7 @@ tags:
 - 종류: 호흡으로 마무리 / 정적 스트레칭 / 주동근 스트레칭
 
 1. <운동>
-    1.
-    자세: [[누워 있는 자세|Supine position]], [[옆으로 누운 자세|Side lying position]], [[엎드려 누운 자세|Prone position]], [[네발 기기 자세|Four point position]], [[앉은 자세|Sitting position]], [[선 자세|Standing position]]
+    1. 자세: 누워 있는 자세, 옆으로 누운 자세, 엎드려 누운 자세, 네발 기기 자세, 앉은 자세, 선 자세
     2. 목적: <목적>
     3. 기구: <사용할 기구>
         1. 기구 설정:

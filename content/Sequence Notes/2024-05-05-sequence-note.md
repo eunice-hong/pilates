@@ -62,7 +62,7 @@ tags:
     1. 자세: 네발 기기 자세
     2. 목적: 상완삼두근, 광배근, 코어 근육 단련
     3. 기구: [[리포머|reformer]]
-4. [[인어|Mermaid]]
+4. [[pilates-blog/content/exercise/인어|Mermaid]]
     1. 자세: 앉은 자세
     2. 목적: 몸통 측면 근육 스트레칭
     3. 기구: [[리포머|reformer]]

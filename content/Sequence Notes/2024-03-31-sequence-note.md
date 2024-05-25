@@ -45,7 +45,7 @@ tags:
     4. 세부 동작
         1. 기본 동작: 허벅지, 복부 힘으로 몸을 바로 세운다.
         2. 변형 동작 1: 양손 만세로 벌리고, 불가사리 모양 만들기
-2. [[페달 밀기|Pedal press]]
+2. [[pilates-blog/content/exercise/페달 밀기|Pedal press]]
     1. 자세: 엎드려 누운 자세
     2. 목적: 척추 신전근 강화
     3. 예상 소요시간: 5분
@@ -70,7 +70,7 @@ tags:
 
 - 시간: 5분
 
-1. [[인어|Mermaid]]
+1. [[pilates-blog/content/exercise/인어|Mermaid]]
     1. 자세: 앉은 자세
     2. 목적: 둔근 이완
     3. 예상 소요시간: 5분

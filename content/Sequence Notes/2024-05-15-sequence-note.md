@@ -69,8 +69,9 @@ tags:
     2. 목적: 코어 강화, 다리 근육의 강화와 스트레칭
     3. 기구: 캐딜락
     4. 세부 동작
-        1. 기본 동작: [[스트랩에 발 넣기 - 뻗었다 굽히기|Feet in the strap: reach and bend]]
-        2. 변형 동작 1:[[스트랩에 발 넣기 - 위 아래|Feet in the strap: up down]]
+        1. 기본
+           동작: [[pilates-blog/content/exercise/스트랩에 발 넣기 - 뻗었다 굽히기|Feet in the strap: reach and bend]]
+        2. 변형 동작 1:[[pilates-blog/content/exercise/스트랩에 발 넣기 - 위 아래|Feet in the strap: up down]]
     5. 주의 사항
         1. 허리가 과도하게 아치형이 되지 않도록 코어에 힘을 주어 유지한다.
         2. 목과 어깨에 긴장이 가지 않도록 주의한다.

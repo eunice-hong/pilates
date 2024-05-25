@@ -2,17 +2,20 @@
 title: 개인 필라테스 시퀀스 연습
 date: 2024-03-19
 tags:
-    - 개인
+  - 개인
 ---
 
 # 오프닝
+
 - 시간: 5분
+
 1. 목표 설정
     1. 자세 인식과 교정
     2. 필라테스 기본 동작 숙달
 2. 건강 상태 및 운동력 평가
 
 ## Warming up
+
 - 시간: 5-10분
 - 길항근 스트레칭(가동성), 안정화
 
@@ -33,14 +36,14 @@ tags:
         1. [[pilates-blog/content/exercise/팔 돌리기|암 서클]]
         2. [[바렐 필라테스 1#^c597af|바렐 하체 스트레칭 시리즈]]
 
-
 ## Main
+
 - 시간: 35-40분
 - 몸통 강화, Core 강화
 - (단기 목표 내) 목적 부위 강화
 - 타겟 목적 부위 + 전신 or 협응성
 
-1. [[어깨 외회전|Shoulder external rotation]], [[어깨 내회전|Shoulder internal rotation]]
+1. [[pilates-blog/content/exercise/어깨 외회전|Shoulder external rotation]], [[pilates-blog/content/exercise/어깨 내회전|Shoulder internal rotation]]
     1. 목적:
     2. 예상 소요시간: 8분 이상
     3. 횟수:
@@ -48,7 +51,7 @@ tags:
         2. internal - 한 쪽 당 5회씩
     4. 자세: Sitting
 
-2. [[흉곽 회전|Thoracic rotation]]
+2. [[pilates-blog/content/exercise/흉곽 회전|Thoracic rotation]]
     1. 목적:
         1. 몸통, 견갑골의 안정성 향상
         2. 코어 강화
@@ -56,8 +59,8 @@ tags:
     2. 예상 소요시간: 5분
     3. 횟수: 한 쪽 당 8회씩
     4. 자세: Sitting
-   
-3. [[로잉 시리즈 - 프론트|Rowing series: front]]
+
+3. [[pilates-blog/content/exercise/로잉 시리즈 - 프론트|Rowing series: front]]
     1. 목적:
         1. 견갑골, 회전근개 안정화 및 강화
         2. 어깨, 몸통 안정화
@@ -70,10 +73,11 @@ tags:
         1. 동작 수행이 원활할 경우, Kneeling 으로 자세 변경
 
 ## Cool down
+
 - 시간: 5-10분
 - 주동근 스트레칭(가동성)
 
-1. [[인어|Mermaid]]
+1. [[pilates-blog/content/exercise/인어|Mermaid]]
     1. 목적:
         1. 복사근, 광배근, 늑간근, 요방형근 스트레칭
     2. 예상 소요시간: 5분
@@ -81,10 +85,10 @@ tags:
         1. 각 동작당 3회씩 수행
     4. 자세: Supine
 
-
 # 클로징
 
 - 시간: 3분
+
 1. 피드백 및 질문 받기
 2. 다음 수업 계획 논의 (과제 내주기)
     1. 호흡 연습

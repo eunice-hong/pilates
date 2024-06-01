@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🤸 필라테스 블로그",
+    pageTitle: "🤸 홍필라테스",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -64,7 +64,10 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+          enableInHtmlEmbed: false,
+          enableCheckbox: true,
+       }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

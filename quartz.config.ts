@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "WPszsesywWDxcRH6FDLw"
     },
     locale: "ko-KR",
     baseUrl: "pilates.eunice-hong.com",

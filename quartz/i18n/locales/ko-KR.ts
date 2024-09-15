@@ -65,6 +65,7 @@ export default {
     error: {
       title: "찾을 수 없는 페이지",
       notFound: "🤗 페이지를 준비 중입니다. 잠시만 기다려주세요. 🪄",
+       home: "홈으로 돌아가기",
     },
     folderContent: {
       folder: "폴더",
